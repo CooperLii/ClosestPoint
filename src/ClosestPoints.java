@@ -1,8 +1,4 @@
 /**
- * @author MingFang Li
- * Course: CSCI 340 - DATA STRUCTURES/ALGORITHM DSGN
- * Date: 04/02/2019
- * Assignment: 4
  * Project/Class Description:
  *
  * This program asks the user to input the name of the file which contains all the points
